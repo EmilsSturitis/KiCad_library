@@ -34,9 +34,9 @@
   (pad "6" thru_hole circle (at 0 -6.35) (size 0.9144 0.9144) (drill 0.6) (layers *.Cu *.Mask) (tstamp b0520b39-8111-4ce9-a681-5d37ab59661d))
   (pad "7" thru_hole circle (at 0 -7.62) (size 0.9144 0.9144) (drill 0.6) (layers *.Cu *.Mask) (tstamp 717d8074-5352-49b8-a298-e38e0985b640))
   (pad "8" thru_hole circle (at 0 -8.89) (size 0.9144 0.9144) (drill 0.6) (layers *.Cu *.Mask) (tstamp d6b17302-9473-41a1-b1da-37d459ad6058))
-  (model "C:/Users/ES00705/Downloads/HMC1051Z/HMC1051Z.step"
-    (offset (xyz -0.05 4.4 1))
+  (model "D:/SAE/projekti/KiCad_library/Packages3D/HMC1051Z.STEP"
+    (offset (xyz -2 4.5 2))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -90))
+    (rotate (xyz 45 180 -90))
   )
 )
