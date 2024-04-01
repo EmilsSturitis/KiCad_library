@@ -64,4 +64,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 180))
   )
+  (model "C:/SAE/projekti/KiCad_library/Packages3D/USB4105-GF-A.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
